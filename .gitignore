@@ -1,0 +1,13 @@
+# Go dosyaları
+*.exe
+*.out
+
+# Node Modülleri (Frontend için)
+node_modules
+
+# Docker Geçici Dosyaları
+.DS_Store
+
+# Ortak
+/vendor
+/tmp
