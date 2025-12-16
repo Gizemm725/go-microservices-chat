@@ -1,4 +1,4 @@
-# 🚀 TWINUP: Dağıtık Sohbet & Analiz Platformu
+# 🚀  Dağıtık Sohbet & Analiz Platformu
 
 Bu proje, Go (Fiber), React, PostgreSQL, MQTT, Kafka ve ClickHouse gibi modern teknolojileri bir araya getiren tam teşekküllü, uçtan uca Microservices (Mikro Servisler) mimarisinin bir uygulamasıdır.
 
